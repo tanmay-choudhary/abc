@@ -4,10 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>onlineshoppingc</title>
+<title>Insert title here</title>
 </head>
-<h1>hi</h1>
 <body>
-${greeting}
+<h1>hello</h1>
 </body>
 </html>
